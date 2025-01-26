@@ -130,7 +130,7 @@ body {
     pointer-events: auto;
 }
 .game-modal .content {
-    background-image: #fff;
+    background-color: #fff;
     max-width: 420px;
     width: 100%;
     text-align: center;
